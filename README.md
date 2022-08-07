@@ -17,3 +17,4 @@
 - a태크를 사용하지 말자 => 새로고침 되기 때문에 => 느려질 수 있음.
 - abchor 태그를 사용하지 말고 next/Link를 사용하자! (<Link href="/"><a>home</a></Link>)
 - css를 적용할 때 module.css를 이용하면 클래스명 충돌을 걱정 할 필요가 없음.
+- page/\_app.js 에서 처음 OR 모든 틀을 잡아줄 수 있음
